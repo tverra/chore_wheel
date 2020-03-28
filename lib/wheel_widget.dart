@@ -163,7 +163,7 @@ class WheelWidget extends StatelessWidget {
           drawMode: WinwheelDrawMode.code,
           drawText: true,
           imageOverlay: false,
-          textMargin: 0,
+          textMargin: 30,
           pointerAngle: 0,
           pointerGuide: PointerGuide(
             display: true,
